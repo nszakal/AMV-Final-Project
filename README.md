@@ -1,0 +1,2 @@
+# AMV-Final-Project
+The final project for ENGR 4540 Applied Machine Vision. The project essentially served as an experiment to determine, given three different color spaces and light sources, which color space would be better suited for distinguishing between similarly shaped and colored fruits and vegetables for a particular light scource. The project was facilitated by OpenCV, a computer vision C++ library which provided us the tools to collect the data necessary to preform a statistical analyisis in order draw our conclusions for the experiment. 
